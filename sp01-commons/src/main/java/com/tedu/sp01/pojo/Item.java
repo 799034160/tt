@@ -13,6 +13,5 @@ public class Item {
 	//是真的加了注释 啊
 	private String name;
 	private Integer number;
-	//1111111
-	//3333333
+	
 }
